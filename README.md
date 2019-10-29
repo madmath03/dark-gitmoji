@@ -1,7 +1,7 @@
 # dark-gitmoji
 :lipstick: A dark theme for gitmoji
 
-* dark-gitmoji on Stylish - https://userstyles.org/styles/168549/dark-gitmoji
+* dark-gitmoji on Stylish - https://userstyles.org/styles/174666/dark-gitmoji
 
 ## Usage
 To use this theme, simply add the CSS code to CSS-injecting browser extensions like [Stylish](https://userstyles.org/), [Stylus](https://add0n.com/stylus.html) etc. Once the theme is in action, Gitmoji should look as shown below.

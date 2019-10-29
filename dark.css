@@ -1,4 +1,4 @@
-@-moz-document url("https://gitmoji.carloscuesta.me/") {
+@-moz-document url-prefix("https://gitmoji.carloscuesta.me/") {
      /*
      * Gitmoji Dark Theme (2019).
      * 
@@ -7,6 +7,10 @@
 
 html  {
     color: #fcfcfc;
+    background-color: #333333;
+}
+pre {
+    color: black;
 }
 
 .emoji-container {
@@ -15,7 +19,10 @@ html  {
 
 .emoji-card {
     background-color: #222222;
-    box-shadow: 0 1px 2px 0 rgba(38,52,61,0.6);
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .6);
+}
+.emoji-card:hover {
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, .6);
 }
 
 }
